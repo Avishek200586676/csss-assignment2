@@ -1,0 +1,158 @@
+body{
+  text-align: center;
+  font-family: "Indie Flower";
+  font-size: 1.5rem;
+}
+
+footer{
+  margin-top: 100px;
+}
+
+/*
+Fonts Used
+
+Pacifico
+Lobster
+Amatic Sc
+Cookie
+Dancing Script
+Shadows Into Light
+Satisfy
+Indie Flower
+*/
+.pacifico{
+  font-family: "Pacifico";
+}
+.lobster{
+  font-family: "Lobster";
+}
+.amatic{
+  font-family: "Amatic Sc";
+}
+.cookie{
+  font-family: "Cookie";
+}
+.dancing{
+  font-family: "Dancing Script";
+}
+.shadows{
+  font-family: "Shadows Into Light";
+}
+
+.line1{
+  color: #FFDAB9;
+}
+.line2{
+  color: #FF7F50;
+}
+.line3{
+  color: #FA8072;
+}
+.line4{
+  color: #FBCEB1;
+}
+.line5{
+  color: #FFB6C1;
+}
+.line6{
+  color: #FFD700;
+}
+.line7{
+  color: #FFA07A;
+}
+.line8{
+  color: #FF4500;
+}
+.line9{
+  color: #FF4500;
+}
+.line10{
+  color: #FFBF00;
+}
+.line11{
+  color: #FFDAB9;
+}
+.line12{
+  color: #FF7F50;
+}
+.line13{
+  color: #B73333;
+}
+.line14{
+  color: #FFA07A;
+}
+.line15{
+  color: #F7D000;
+}
+.line16{
+  color: #C0C0C0;
+}
+.line17{
+  color: #008080;
+}
+.line18{
+  color: #9B30FF;
+}
+.line19{
+  color: #0000FF;
+}
+.line20{
+  color: #FFD700;
+}
+.line21{
+  color: #FFA500;
+}
+.line22{
+  color: #FA8072;
+}
+.line23{
+  color: #FBCEB1;
+}
+.line24{
+  color: #808080;
+}
+.line25{
+  color: #FFB6C1;
+}
+.line26{
+  color: #D3D3D3;
+}
+.line27{
+  color: #ffebc5;
+}
+.line28{
+  color: #ADD8E6;
+}
+.line29{
+  color: #008000;
+}
+.line30{
+  color: #FFC0CB;
+}
+.line31{
+  color: #D6C7E2;
+}
+.line32{
+  color: #FFC0CB;
+}
+.line33{
+  color: #F7931B;
+}
+.line34{
+  color: #FF7F50;
+}
+.line35{
+  color: #FA8072;
+}
+.line36{
+  color: #FBCEB1;
+}
+.line37{
+  color: #FFB6C1;
+}
+.line38{
+  color: #FF4500;
+}
+.line39{
+  color: #FF4500;
+}
